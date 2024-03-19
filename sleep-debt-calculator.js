@@ -1,4 +1,3 @@
-
 const getSleepHours = day => {
   if (day ==='monday' || day ==='tuesday' || day ==='wednesday' || day ==='thursday' || day ==='friday' || day ==='saturday' || day ==='sunday') {
     return 8;
